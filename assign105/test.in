@@ -1,0 +1,8 @@
+insert head 1
+insert head 2
+delete tail
+delete head
+insert tail -3
+insert tail 2
+insert head 1
+
